@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallav Chavda</h1>
-<h3 align="center">I am currently learning new Technical skills as well as DevOps,Data Analytics, python and many.</h3>
+<h3 align="center">I am currently learning new Technical skills as well as DevOps,Data Analytics, Data Science  and many.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallav7533&label=Profile%20views&color=0e75b6&style=flat" alt="pallav7533" /> </p>
