@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pallavchavda" target="blank"><img src="https://img.shields.io/twitter/follow/pallavchavda?logo=twitter&style=for-the-badge" alt="pallavchavda" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Power BI,OOPs concept, Data analysis and visualization , python programming language and python for data science.**
+- 🌱 I’m currently learning **Microsoft Power BI, OOPs concept, Data analysis and visualization, python programming language, and Python for data science.**
 
 - 📫 How to reach me **pallavdrj7533@gmail.com**
 
