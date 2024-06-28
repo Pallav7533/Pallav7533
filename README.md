@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallav Chavda</h1>
-<h3 align="center">I am currently learning Data Science, NLP(Natural Language Processing), ML(Machine Learning),DL()Deep Learning and DevOps.</h3>
+<h3 align="center"> Business Intelligence | Data Analytics | Machine Learning and Data Science Practitioner </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallav7533&label=Profile%20views&color=0e75b6&style=flat" alt="pallav7533" /> </p>
